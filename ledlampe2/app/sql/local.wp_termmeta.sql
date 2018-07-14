@@ -2,9 +2,9 @@
 /*!40014 SET FOREIGN_KEY_CHECKS=0*/;
 /*!40103 SET TIME_ZONE='+00:00' */;
 INSERT INTO `wp_termmeta` VALUES
-(1,16,"product_count_product_cat","0"),
+(1,16,"product_count_product_cat","1"),
 (2,17,"order","0"),
-(3,17,"product_count_product_cat","6"),
+(3,17,"product_count_product_cat","7"),
 (4,18,"product_count_product_tag","6"),
 (5,19,"product_count_product_tag","1"),
 (6,20,"product_count_product_tag","3"),
@@ -49,4 +49,9 @@ INSERT INTO `wp_termmeta` VALUES
 (50,38,"product_count_product_tag","1"),
 (51,39,"order","0"),
 (52,40,"order","0"),
-(53,40,"product_count_product_cat","1");
+(53,40,"product_count_product_cat","1"),
+(54,31,"product_count_product_cat","1"),
+(55,41,"product_count_product_tag","1"),
+(56,42,"product_count_product_tag","1"),
+(57,43,"fusion_taxonomy_options","a:14:{s:18:\"fusion_tax_heading\";s:0:\"\";s:11:\"slider_type\";s:2:\"no\";s:17:\"fusion_tax_slider\";s:1:\"0\";s:20:\"fusion_tax_wooslider\";s:1:\"0\";s:20:\"fusion_tax_revslider\";s:1:\"0\";s:24:\"fusion_tax_elasticslider\";s:1:\"0\";s:15:\"slider_position\";s:7:\"default\";s:16:\"main_padding_top\";s:0:\"\";s:19:\"main_padding_bottom\";s:0:\"\";s:15:\"header_bg_color\";s:0:\"\";s:13:\"page_title_bg\";s:0:\"\";s:20:\"page_title_bg_retina\";s:0:\"\";s:17:\"page_title_height\";s:0:\"\";s:24:\"page_title_mobile_height\";s:0:\"\";}"),
+(58,44,"fusion_taxonomy_options","a:14:{s:18:\"fusion_tax_heading\";s:0:\"\";s:11:\"slider_type\";s:2:\"no\";s:17:\"fusion_tax_slider\";s:1:\"0\";s:20:\"fusion_tax_wooslider\";s:1:\"0\";s:20:\"fusion_tax_revslider\";s:1:\"0\";s:24:\"fusion_tax_elasticslider\";s:1:\"0\";s:15:\"slider_position\";s:7:\"default\";s:16:\"main_padding_top\";s:0:\"\";s:19:\"main_padding_bottom\";s:0:\"\";s:15:\"header_bg_color\";s:0:\"\";s:13:\"page_title_bg\";s:0:\"\";s:20:\"page_title_bg_retina\";s:0:\"\";s:17:\"page_title_height\";s:0:\"\";s:24:\"page_title_mobile_height\";s:0:\"\";}");

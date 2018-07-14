@@ -41,4 +41,14 @@ INSERT INTO `wp_terms` VALUES
 (37,"Apache","apache",0),
 (38,"Apache","apache",0),
 (39,"Black Dog Led","black-dog-led",0),
-(40,"Black Dog Led","black-dog-led-led-rasvjeta",0);
+(40,"Black Dog Led","black-dog-led-led-rasvjeta",0),
+(41,"Šatori za grow","satori-za-grow",0),
+(42,"Mars Hydro","mars-hydro",0),
+(43,"Blog posts","blogposts",0),
+(44,"LED rasvjeta","ledrasvjeta_posts",0),
+(46,"Prednosti LED rasvjete","prednosti-led-rasvjete",0),
+(47,"Kako odabrati","kako-odabrati",0),
+(48,"LED lampe","led-lampe",0),
+(49,"PAR","par",0),
+(50,"PPF","ppf",0),
+(51,"Učinkovitost","ucinkovitost",0);

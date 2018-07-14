@@ -1,0 +1,53 @@
+[13-Jul-2018 18:10:35] NOTICE: fpm is running, pid 21
+[13-Jul-2018 18:10:35] NOTICE: ready to handle connections
+[13-Jul-2018 18:15:07] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[13-Jul-2018 18:15:53] NOTICE: Terminating ...
+[13-Jul-2018 18:15:53] NOTICE: exiting, bye-bye!
+[13-Jul-2018 18:16:13] NOTICE: fpm is running, pid 29
+[13-Jul-2018 18:16:13] NOTICE: ready to handle connections
+[13-Jul-2018 18:18:07] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[13-Jul-2018 19:30:09] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[13-Jul-2018 19:44:47] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[13-Jul-2018 19:48:34] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[13-Jul-2018 19:51:21] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[13-Jul-2018 19:55:02] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 06:39:36] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 07:03:04] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 07:07:48] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 07:42:59] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 07:45:51] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 07:56:11] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 08:12:58] NOTICE: Terminating ...
+[14-Jul-2018 08:12:58] NOTICE: exiting, bye-bye!
+[14-Jul-2018 08:25:30] NOTICE: fpm is running, pid 26
+[14-Jul-2018 08:25:30] NOTICE: ready to handle connections
+[14-Jul-2018 08:50:53] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 08:54:42] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 08:56:12] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 09:00:15] NOTICE: Terminating ...
+[14-Jul-2018 09:00:15] NOTICE: exiting, bye-bye!
+[14-Jul-2018 09:04:02] NOTICE: fpm is running, pid 8
+[14-Jul-2018 09:04:02] NOTICE: ready to handle connections
+[14-Jul-2018 09:07:34] NOTICE: Terminating ...
+[14-Jul-2018 09:07:34] NOTICE: exiting, bye-bye!
+[14-Jul-2018 09:15:32] NOTICE: fpm is running, pid 25
+[14-Jul-2018 09:15:32] NOTICE: ready to handle connections
+[14-Jul-2018 09:33:00] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 09:35:58] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 09:38:22] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 09:51:18] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 09:57:53] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 10:00:06] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 10:03:14] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 10:04:56] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 10:12:16] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 10:16:28] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 10:24:48] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 10:26:53] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 10:42:16] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 10:45:42] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
+[14-Jul-2018 10:49:20] NOTICE: Terminating ...
+[14-Jul-2018 10:49:20] NOTICE: exiting, bye-bye!
+[14-Jul-2018 10:49:56] NOTICE: fpm is running, pid 25
+[14-Jul-2018 10:49:56] NOTICE: ready to handle connections
+[14-Jul-2018 11:16:16] WARNING: [pool www] server reached pm.max_children setting (5), consider raising it
